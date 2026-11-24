@@ -10,4 +10,6 @@ My Monday: the CEO held a listening session with all 80 of us on mute. He heard 
 
 Character count: 123.
 
+Output is deterministic — the same entry on every run.
+
 The program writes this entry to `/output/entry.txt` without a trailing newline. Run it with `node main.ts`.
